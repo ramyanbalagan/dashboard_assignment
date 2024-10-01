@@ -43,7 +43,7 @@ function Layout({ children }) {
             </div>
 
             {/* Main board */}
-            <div className='flex-1 pl-60'>
+            <div className='flex-1 md:pl-60'>
                 <div className='p-4 flex-1'>
                 {children}
                 </div>
